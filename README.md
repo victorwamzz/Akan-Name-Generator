@@ -32,3 +32,6 @@ The Akan members have a strong belief that the day an individual is born will gr
 
 ## License
 Produced and distributed under the MIT License
+
+## Contact
+### Name: Victor Wamalwa

@@ -6,6 +6,9 @@ This website is solely created to get the birthdates, years and genders of the t
 ## Site Description
 This site explains the cultural heritage and how names are acquired according to the customs of Ghana.
 
+## Short Summary
+The Akan members have a strong belief that the day an individual is born will greatly influence their character, nature and their fates.
+
 ## Author
 * **Victor Wamalwa**
 

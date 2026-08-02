@@ -27,3 +27,4 @@ The Akan members have a strong belief that the day an individual is born will gr
 
   ## Technologies Used
 * **HTML**
+* CSS

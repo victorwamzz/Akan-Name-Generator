@@ -17,3 +17,7 @@ This site explains the cultural heritage and how names are acquired according to
 * **Month of birth**
 
   This will display the month on which the person was born in and hence influences the name of the indivifual.
+
+* **Year of birth**
+
+  This greatly contributes as it determines the age of the individual and how the individual will be named.

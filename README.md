@@ -13,3 +13,7 @@ This site explains the cultural heritage and how names are acquired according to
 * **Day of birth**
 
   This contains the dates of the month to determine the names of the members. 
+
+* **Month of birth**
+
+  This will display the month on which the person was born in and hence influences the name of the indivifual.

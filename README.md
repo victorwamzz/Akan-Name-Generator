@@ -9,4 +9,6 @@ This site explains the cultural heritage and how names are acquired according to
 ## Author
 * **Victor Wamalwa**
 
-## Table of contents
+## Contents
+* **Day of birth**
+  This contains the dates of the month to determine the names of the members. 

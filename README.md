@@ -9,3 +9,4 @@ This site explains the cultural heritage and how names are acquired according to
 ## Author
 * **Victor Wamalwa**
 
+## Table of contents

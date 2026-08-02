@@ -29,3 +29,6 @@ The Akan members have a strong belief that the day an individual is born will gr
 * **HTML**
 * CSS
 * JavaScript
+
+## License
+Produced and distributed under the MIT License

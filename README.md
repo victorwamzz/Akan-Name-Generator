@@ -35,3 +35,4 @@ Produced and distributed under the MIT License
 
 ## Contact
 ### Name: Victor Wamalwa
+### Email: victor.wamalwa@student.moringaschool.com

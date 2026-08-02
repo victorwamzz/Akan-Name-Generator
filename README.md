@@ -5,4 +5,5 @@ This website is solely created to get the birthdates, years and genders of the t
 
 ## Site Description
 This site explains the cultural heritage and how names are acquired according to the customs of Ghana.
+
 ## Author

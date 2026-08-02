@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akan Name Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Akan Name Generator</h1>
+        <p>Be able to know your Ghanian name according to the Ghanian culture based on the day you were born!</p>
+    </div>
+
+    <form id="AboutAkan">
+        <br><br>
+        <!--BirthDay-->
+        <div class="about-akan">
+            <label for="Day">Day of Birth></label>
+            <input type="number" id="day" placeholder="DD (1-31)" min="1" max="31" required>
+        </div>
+        <br><br>
+
+
+        <!--BirthMonth-->
+        <div class="about-akan">
+            <label for="Month">Month of Birth></label>
+            <input type="number" id="month" placeholder="MM (1-12)" min="1" max="12" required>
+        </div>
+        <br><br>
+
+        <!--BirthYear-->
+        <div class="about-akan">
+            <label for="year">Year of Birth></label>
+            <input type="number" id="year" placeholder="YYYY" required>
+        </div>
+        <br><br>
+
+        <!--Gender-->
+        <div class="about-akan">
+            <label for="Gender">Gender</label>
+            <div class="radio-group">
+                <input type="radio" id="male" name="gender" value="male" required>
+                <label for="male">Male</label>
+                <input type="radio" id="female" name="gender" value="female" required>
+                <label for="female">Female</label>
+            </div>
+        </div>
+        <br><br>
+
+        <button type="submit">Generate Name</button>
+        <button type="reset" id="clearBtn">Clear</button>
+
+    </form>
+    <br><br>
+
+    <div id="result" class="result-box hidden">
+        <h3>Akan Name is:</h3>
+        <p id="displayName"></p>
+    </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

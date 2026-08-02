@@ -24,3 +24,6 @@ The Akan members have a strong belief that the day an individual is born will gr
 * **Year of birth**
 
   This greatly contributes as it determines the age of the individual and how the individual will be named.
+
+  ## Technologies Used
+* **HTML**
